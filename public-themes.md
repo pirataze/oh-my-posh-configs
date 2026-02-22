@@ -27,7 +27,7 @@ Json Raw File
 https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/di4am0nd.omp.json
 
 ## emodipt
-![theme - emodipt](https://ohmyposh.dev/assets/images/emodipt-4532b4f383730b7d668b1dbed0cb30d9.png)
+![theme - emodipt](https://ohmyposh.dev/assets/images/emodipt-85d447d0fafd1c0af976d2870d1d9545.png)
 Github Page
 https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/emodipt.omp.json
 
@@ -35,7 +35,7 @@ Json Raw File
 https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/emodipt.omp.json
 
 ## emodipt-extend
-![theme - emodipt-extend](https://ohmyposh.dev/assets/images/emodipt-extend-23bcb76ebcb050fcfc8b22e2beb1739d.png)
+![theme - emodipt-extend](https://ohmyposh.dev/assets/images/emodipt-extend-d3a3eab388943d7d6bd65686e74b056b.png)
 Github Page
 https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/emodipt-extend.omp.json
 
